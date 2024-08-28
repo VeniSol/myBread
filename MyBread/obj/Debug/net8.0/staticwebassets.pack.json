@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyBread.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyBread.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\css\\styleA.css",
+      "PackagePath": "staticwebassets\\css\\styleA.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\css\\styleO.css",
+      "PackagePath": "staticwebassets\\css\\styleO.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\css\\styleOf.css",
+      "PackagePath": "staticwebassets\\css\\styleOf.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\css\\styleP.css",
+      "PackagePath": "staticwebassets\\css\\styleP.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\css\\styleProf.css",
+      "PackagePath": "staticwebassets\\css\\styleProf.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\XXL_height.jpg",
+      "PackagePath": "staticwebassets\\images\\XXL_height.jpg"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\back1.jpg",
+      "PackagePath": "staticwebassets\\images\\back1.jpg"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\back2.jpg",
+      "PackagePath": "staticwebassets\\images\\back2.jpg"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\back3.jpg",
+      "PackagePath": "staticwebassets\\images\\back3.jpg"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\background.jpg",
+      "PackagePath": "staticwebassets\\images\\background.jpg"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\products\\bread (1).jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bread (1).jpg"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\products\\bread (2).jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bread (2).jpg"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\products\\bread (3).jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bread (3).jpg"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\products\\bread (4).jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bread (4).jpg"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\products\\bread (5).jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bread (5).jpg"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\images\\products\\bread (6).jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bread (6).jpg"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\js\\ordering.js",
+      "PackagePath": "staticwebassets\\js\\ordering.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\js\\validator.js",
+      "PackagePath": "staticwebassets\\js\\validator.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PROGRAMMING\\С#\\MyBread\\MyBread\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyBread.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyBread.props",
+      "PackagePath": "build\\MyBread.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyBread.props",
+      "PackagePath": "buildMultiTargeting\\MyBread.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyBread.props",
+      "PackagePath": "buildTransitive\\MyBread.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

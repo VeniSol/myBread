@@ -1,0 +1,89 @@
+@using MyBread.Models.DTO
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Хлебзавод «Хлебушек»</title>
+    <link rel="shortcut icon" href="/images/logo.png" type="image/png">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <link href="@Url.Content("~/css/styleO.css?1")" rel="stylesheet"/>
+</head>
+<body>
+
+
+<!-- Header -->
+<header class="header">
+    <nav class="nav">
+        <ul id="logo">
+            <img src="/images/1.png" class="logo">
+            <a href="" class="nav_logo">«Хлебушек»</a>
+        </ul>
+        <ul class="nav_items">
+            <li class="nav_item">
+                <a href="/profile" class="nav_link">Личный кабинет</a>
+            </li>
+        </ul>
+        <button id="logout" onclick="window.location.href = '/logout'">Выход</button>
+    </nav>
+</header>
+<script type="text/javascript" src="/js/scripts.js"></script>
+<div class="margintop"></div>
+
+<main>
+    <aside id="left"></aside>
+    <article>
+        <h1 id="headline">Заказ продукции</h1>
+
+        <div id="header">
+            <table id="thead">
+                <tr>
+                    <td>Название</td>
+                    <td>Введите количество</td>
+                    <td>Доступно</td>
+                    <td>Цена</td>
+                </tr>
+            </table>
+
+        </div>
+        @for (int i = 0; i < ViewBag.Products.Count; i++)
+        {
+            
+            Product product = ViewBag.Products[i];
+            <table>
+                <tr>
+                    <td>
+                        <label id="bread@(i)Name" for="bread@(i)">@(product.NameProd)</label>
+                    </td>
+                    <td>
+                        <input type="text" id="bread@(i)"/>
+                    </td>
+                    <td>
+                        <span id="bread@(i)Quantity">@(product.QuantityProd)</span>
+                    </td>
+                    <td>
+                        <span id="bread@(i)Price">@(product.PriceProd)</span>
+                    </td>
+                    <div id="prod@(i)" style="display: none;">
+                        @(product.Id)
+                    </div>
+                </tr>
+            </table>
+        }
+        <div class="container">
+            <button type="button" class="but">Заказать</button>
+            <p id="order"></p>
+        </div>
+        <script src="~/js/ordering.js"></script>
+    </article>
+    <aside id="right"></aside>
+</main>
+<footer>
+    <p>© ОАО «Хлебушек», 2024</p>
+</footer>
+<a href='#' class="stt"></a>
+
+</body>
+
+</html>
